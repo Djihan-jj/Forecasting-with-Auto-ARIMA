@@ -1,6 +1,5 @@
 # Forecasting-with-Auto-ARIMA
 Auto generated model ARIMA based on your data
-
 __
 ## About
 Forecasting is a technique of predicting the future based on the result of previous data. It uses statistical tools and techniques. Forecasting acts as a planning tool that helps enterprises to get ready for the uncertainly that can occur in the future.
